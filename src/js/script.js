@@ -78,7 +78,7 @@ document.getElementById('searchbtn').addEventListener('click', async (e) => {
             <div
               class="px-3 py-4 w-1/5 dark:text-white bg-gray-200 dark:bg-gray-600 rounded-4xl flex min-h-[20vh] flex-col items-center justify-evenly">
               <h5 class="text-4xl font-bold"> Humidity</h5>
-              <h6 class="text-2xl font-semibold"> ${humidity}%</h6>
+              <h6 class="text-2xl font-semibold"> ${humidity}% </h6>
             </div>
             <div
               class="px-3 py-4 w-1/5 dark:text-white bg-gray-200 dark:bg-gray-600 rounded-4xl flex min-h-[20vh] flex-col items-center justify-evenly">
